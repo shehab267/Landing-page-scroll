@@ -7,7 +7,7 @@
 ## Project Description
 
 Building a basic landing page using Java Script to make it responsive and dynamically add and highlight sections on scrolling.
-
+#### [live demo](https://shehab267.github.io/Landing-page-scroll/)
 ## Features
 
 1. The navigation bar is adding new sections _Dynamically_.
